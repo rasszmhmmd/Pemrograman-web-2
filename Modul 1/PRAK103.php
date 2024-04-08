@@ -1,6 +1,5 @@
 <?php
 
-
 // Nilai celcius pada soal
 $celcius = 37.841;
 
